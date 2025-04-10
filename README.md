@@ -31,7 +31,7 @@ Install OXChack:
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](http://oxchack.duckdns.org/LICENSE.txt)
 
 
 ## Authors
