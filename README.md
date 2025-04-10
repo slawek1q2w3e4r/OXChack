@@ -5,8 +5,7 @@
 
 # OXChack
 
-A brief description of what this project does and who it's for
-
+OXChack is a lightweight and efficient external cheat for Counter-Strike 2. Created with a focus on stability and user experience, it includes core features like ESP (box, glow), aimbot with rage settings, and visual tweaks such as night mode and custom crosshair. The intuitive ImGui-based menu makes configuration quick and seamless, offering players full control over the functionality.
 
 ## Features
 
@@ -21,7 +20,7 @@ A brief description of what this project does and who it's for
 Install OXChack:
 
 ```bash
-    Visit EXLoder to get the modification
+ - Visit EXLoder to get the modification
 ```
     
 ## Documentation
