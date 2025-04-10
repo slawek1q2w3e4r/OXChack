@@ -20,8 +20,7 @@ A brief description of what this project does and who it's for
 Install OXChack:
 
 ```bash
-    copy proj to vs 2022
-    build in x64 | realeses
+    Visit EXLoder to get the modification
 ```
     
 ## Documentation
