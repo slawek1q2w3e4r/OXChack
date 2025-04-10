@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|solutionrelative:ImGui DirectX 11 Kiero Hook\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|solutionrelative:ImGui DirectX 11 Kiero Hook\\src\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|solutionrelative:ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,20 +39,12 @@
       "RelativeMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|solutionrelative:ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui_Base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|solutionrelative:ImGui DirectX 11 Kiero Hook\\src\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\cheat\\visuals\\visuals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|solutionrelative:ImGui DirectX 11 Kiero Hook\\src\\cheat\\visuals\\visuals.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\math\\math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|solutionrelative:ImGui DirectX 11 Kiero Hook\\src\\math\\math.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\utils\\memory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|solutionrelative:ImGui DirectX 11 Kiero Hook\\src\\utils\\memory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04B17470-CB82-4724-904B-25445926AB86}|ImGui DirectX 11 Kiero Hook\\ImGui DirectX 11 Kiero Hook.vcxproj|Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\math\\math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -68,11 +64,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OS-ImGui.cpp",
               "DocumentMoniker": "Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui.cpp",
               "RelativeDocumentMoniker": "ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui.cpp",
@@ -80,12 +76,11 @@
               "RelativeToolTip": "ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui.cpp",
               "ViewState": "AgIAAHEAAAAAAAAAAAAiwHYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-10T14:08:13.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T14:08:13.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OS-ImGui.h",
               "DocumentMoniker": "Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui.h",
               "RelativeDocumentMoniker": "ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui.h",
@@ -93,12 +88,11 @@
               "RelativeToolTip": "ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-10T14:07:44.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T14:07:44.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "OS-ImGui_Base.cpp",
               "DocumentMoniker": "Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui_Base.cpp",
               "RelativeDocumentMoniker": "ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui_Base.cpp",
@@ -110,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OS-ImGui_Base.h",
               "DocumentMoniker": "Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui_Base.h",
               "RelativeDocumentMoniker": "ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui_Base.h",
@@ -122,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "OS-ImGui_External.cpp",
               "DocumentMoniker": "Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui_External.cpp",
               "RelativeDocumentMoniker": "ImGui DirectX 11 Kiero Hook\\ext\\OS-ImGui\\OS-ImGui_External.cpp",
@@ -134,19 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "memory.h",
-              "DocumentMoniker": "Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\utils\\memory.h",
-              "RelativeDocumentMoniker": "ImGui DirectX 11 Kiero Hook\\src\\utils\\memory.h",
-              "ToolTip": "Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\utils\\memory.h",
-              "RelativeToolTip": "ImGui DirectX 11 Kiero Hook\\src\\utils\\memory.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-09T16:43:28.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "cheats.h",
               "DocumentMoniker": "Y:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\utils\\cheats.h",
               "ToolTip": "Y:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\utils\\cheats.h",
@@ -156,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "cheats.cpp",
               "DocumentMoniker": "Y:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\utils\\cheats.cpp",
               "ToolTip": "Y:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\utils\\cheats.cpp",
@@ -166,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "math.h",
               "DocumentMoniker": "Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\math\\math.h",
               "RelativeDocumentMoniker": "ImGui DirectX 11 Kiero Hook\\src\\math\\math.h",
@@ -178,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ConfigMenu.hpp",
               "DocumentMoniker": "Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\utils\\ConfigMenu.hpp",
               "RelativeDocumentMoniker": "ImGui DirectX 11 Kiero Hook\\src\\utils\\ConfigMenu.hpp",
@@ -186,8 +168,7 @@
               "RelativeToolTip": "ImGui DirectX 11 Kiero Hook\\src\\utils\\ConfigMenu.hpp",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-29T19:39:22.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T19:39:22.689Z"
             },
             {
               "$type": "Document",
@@ -203,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "visuals.cpp",
               "DocumentMoniker": "Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\cheat\\visuals\\visuals.cpp",
               "RelativeDocumentMoniker": "ImGui DirectX 11 Kiero Hook\\src\\cheat\\visuals\\visuals.cpp",
@@ -211,8 +192,7 @@
               "RelativeToolTip": "ImGui DirectX 11 Kiero Hook\\src\\cheat\\visuals\\visuals.cpp",
               "ViewState": "AgIAADAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-29T19:33:36.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T19:33:36.301Z"
             },
             {
               "$type": "Document",
@@ -234,22 +214,23 @@
               "RelativeDocumentMoniker": "ImGui DirectX 11 Kiero Hook\\src\\main.cpp",
               "ToolTip": "Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\main.cpp",
               "RelativeToolTip": "ImGui DirectX 11 Kiero Hook\\src\\main.cpp",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAAEMAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAswHMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-27T17:52:27.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "includes.h",
               "DocumentMoniker": "Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\includes.h",
               "RelativeDocumentMoniker": "ImGui DirectX 11 Kiero Hook\\src\\includes.h",
               "ToolTip": "Z:\\Programowanie\\c\u002B\u002B\\cs2priv\\ImGui DirectX 11 Kiero Hook\\src\\includes.h",
               "RelativeToolTip": "ImGui DirectX 11 Kiero Hook\\src\\includes.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-27T17:52:13.087Z"
+              "WhenOpened": "2025-03-27T17:52:13.087Z",
+              "EditorCaption": ""
             }
           ]
         }
