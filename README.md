@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="http://oxchack.duckdns.org/Logo/Logo.png" alt="Logo" width="500" height="150"/>
+  <img src="http://oxchack.duckdns.org/Logo/Logo.png" alt="Logo" width="500" height="300"/>
 </p>
 
 # OXChack
