@@ -1,6 +1,7 @@
 
-![Logo](http://oxchack.duckdns.org/Logo/Logo.png)
-
+<p align="center">
+  <img src="http://oxchack.duckdns.org/Logo/Logo.png" alt="Logo" width="150"/>
+</p>
 
 # OXChack
 
