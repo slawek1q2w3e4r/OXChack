@@ -76,25 +76,44 @@ void V::ESP::PlayerESP()
             // HEALTH BAR
             float healthPerc = std::clamp(health / 100.0f, 0.0f, 1.0f);
             float barHeight = height * healthPerc;
-            float barWidth = 4.0f;
+            float barWidth = 2.0f;
             float barX = x - barWidth - 2.0f;
             float barY = head.y + (height - barHeight);
 
             ImColor healthColor = ImColor::HSV(healthPerc * 0.33f, 1.0f, 1.0f); // zielony do czerwonego
 
-            // Tło paska zdrowia
-            ImGui::GetBackgroundDrawList()->AddRectFilled(
-                { barX, head.y },
-                { barX + barWidth, head.y + height },
-                IM_COL32(0, 0, 0, 150)
-            );
+			if (MenuConfig::ShowHealthBar)
+			{
+                // Tło paska zdrowia
+                ImGui::GetBackgroundDrawList()->AddRectFilled(
+                    { barX, head.y },
+                    { barX + barWidth, head.y + height },
+                    IM_COL32(0, 0, 0, 150)
+                );
 
-            // Pasek zdrowia
-            ImGui::GetBackgroundDrawList()->AddRectFilled(
-                { barX, barY },
-                { barX + barWidth, head.y + height },
-                healthColor
-            );
+                // Pasek zdrowia
+                ImGui::GetBackgroundDrawList()->AddRectFilled(
+                    { barX, barY },
+                    { barX + barWidth, head.y + height },
+                    healthColor
+                );
+
+                // Wyświetlanie wartości HP pod paskiem
+                char hpText[8];
+                sprintf_s(hpText, "%d", health);
+
+                ImVec2 textSize = ImGui::CalcTextSize(hpText);
+                float textX = x - textSize.x / 2.0f; // wyśrodkowany tekst względem gracza
+                float textY = head.y + height + 2.0f; // pod spodem modelu
+
+                ImGui::GetBackgroundDrawList()->AddText(
+                    ImVec2(textX, textY),
+                    IM_COL32(255, 255, 255, 255), // biały kolor
+                    hpText
+                );
+			}
+
+
         }
 
     }
@@ -138,7 +157,7 @@ void Console::CreateConsole()
     if (AllocConsole())
     {
 
-        SetConsoleTitle("Visit OXChack.ddns.net for updates!!");
+        SetConsoleTitle("Visit OXChack.duckdns.org for updates!!");
 
         FILE* pConsole;
         freopen_s(&pConsole, "CONOUT$", "w", stdout);

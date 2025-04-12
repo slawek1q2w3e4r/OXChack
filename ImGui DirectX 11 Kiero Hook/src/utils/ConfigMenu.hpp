@@ -13,6 +13,8 @@ namespace MenuConfig
 	inline bool NightMode = false;
 	inline bool NoFlash = false;
 	inline bool ShowGlow = false;
+	inline bool BackwordSite = false; // 0 - left   1 - right 
+	inline bool ShowHealthBar = false;
 
 	// masterswitch
 
@@ -38,6 +40,4 @@ namespace MenuConfig
 
 	inline bool OBSBypass = false;
 
-	inline void RenderConfigMenu();
-	inline void ResetToDefault();
 }

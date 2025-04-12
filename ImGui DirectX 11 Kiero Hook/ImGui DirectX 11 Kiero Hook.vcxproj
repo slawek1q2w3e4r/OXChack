@@ -167,7 +167,6 @@
     <ClCompile Include="src\math\math.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\cheat\visuals\visuals.cpp" />
-    <ClCompile Include="src\utils\ConfigMenu.cpp" />
     <ClCompile Include="src\utils\ConfigSaver.cpp" />
   </ItemGroup>
   <ItemGroup>
