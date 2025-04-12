@@ -21,6 +21,7 @@ Install OXChack:
 
 ```bash
  - Visit EXLoder to get the modification
+ - or downlad dll
 ```
     
 ## Documentation
